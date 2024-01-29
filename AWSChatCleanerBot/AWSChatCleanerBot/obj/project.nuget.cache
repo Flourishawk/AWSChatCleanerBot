@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "sulJlNhFYfVX6N0dkvIJXJ+yUJ8i2mdEwn9j39dBO3dRhQRLn8gRCGQmwtOQcSzU+QKAFwNQRDGctxujQWMp0g==",
+  "success": true,
+  "projectFilePath": "U:\\GitProject\\AWSChatCleanerBot\\AWSChatCleanerBot\\AWSChatCleanerBot\\AWSChatCleanerBot.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\poijn\\.nuget\\packages\\amazon.lambda.core\\2.1.0\\amazon.lambda.core.2.1.0.nupkg.sha512",
+    "C:\\Users\\poijn\\.nuget\\packages\\amazon.lambda.serialization.systemtextjson\\2.3.1\\amazon.lambda.serialization.systemtextjson.2.3.1.nupkg.sha512",
+    "C:\\Users\\poijn\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\poijn\\.nuget\\packages\\telegram.bot\\19.0.0\\telegram.bot.19.0.0.nupkg.sha512",
+    "C:\\Users\\poijn\\.nuget\\packages\\microsoft.netcore.app.crossgen2.win-x64\\6.0.22\\microsoft.netcore.app.crossgen2.win-x64.6.0.22.nupkg.sha512"
+  ],
+  "logs": []
+}
